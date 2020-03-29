@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##########   Sweden   ##########" tvg-logo="" group-title="Sweden",##########   Sweden   ##########
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2539.m3u8
+#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 SE" tvg-logo="http://195.154.221.171/picons/svt1se.png" group-title="Sweden",SVT1 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6138.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SVT 1 FHD VIP SE" tvg-logo="" group-title="Sweden",SVT 1 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9152.m3u8
+#EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 HD SE" tvg-logo="http://195.154.221.171/picons/svt2hdse.png" group-title="Sweden",SVT2 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SVT 2 FHD VIP SE" tvg-logo="" group-title="Sweden",SVT 2 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9151.m3u8
+#EXTINF:-1 tvg-id="TV3 SE" tvg-name="TV3 HD SE" tvg-logo="http://195.154.221.171/picons/tv3hdse.png" group-title="Sweden",TV3 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV3 FHD VIP SE" tvg-logo="" group-title="Sweden",TV3 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9592.m3u8
+#EXTINF:-1 tvg-id="TV4 SE" tvg-name="TV4 HD SE" tvg-logo="http://195.154.221.171/picons/tv4hdse.png" group-title="Sweden",TV4 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2962.m3u8
+#EXTINF:-1 tvg-id="TV4 SE" tvg-name="TV4 FHD SE" tvg-logo="http://195.154.221.171/picons/tv4hdse.png" group-title="Sweden",TV4 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6490.m3u8
+#EXTINF:-1 tvg-id="Kanal 5 SE" tvg-name="Kanal 5 HD SE" tvg-logo="http://195.154.221.171/picons/kanal5se.png" group-title="Sweden",Kanal 5 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2955.m3u8
+#EXTINF:-1 tvg-id="Kanal 5 SE" tvg-name="Kanal 5 FHD VIP SE" tvg-logo="http://195.154.221.171/picons/kanal5hdse.png" group-title="Sweden",Kanal 5 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9268.m3u8
+#EXTINF:-1 tvg-id="TV6 SE" tvg-name="TV6 HD SE" tvg-logo="http://195.154.221.171/picons/tv6hdse.png" group-title="Sweden",TV6 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6499.m3u8
+#EXTINF:-1 tvg-id="Sjuan SE" tvg-name="Sjuan SE" tvg-logo="http://195.154.221.171/picons/sjuanse.png" group-title="Sweden",Sjuan SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2941.m3u8
+#EXTINF:-1 tvg-id="TV8 SE" tvg-name="TV8 SE" tvg-logo="http://195.154.221.171/picons/tv8se.png" group-title="Sweden",TV8 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2953.m3u8
+#EXTINF:-1 tvg-id="Kanal 9 SE" tvg-name="Kanal 9 HD SE" tvg-logo="http://195.154.221.171/picons/kanal9se.png" group-title="Sweden",Kanal 9 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2943.m3u8
+#EXTINF:-1 tvg-id="Kanal 9 SE" tvg-name="Kanal 9 FHD SE" tvg-logo="http://195.154.221.171/picons/kanal9hdse.png" group-title="Sweden",Kanal 9 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6137.m3u8
+#EXTINF:-1 tvg-id="TV10 SE" tvg-name="TV10 HD SE" tvg-logo="http://195.154.221.171/picons/tv10se.png" group-title="Sweden",TV10 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/3000.m3u8
+#EXTINF:-1 tvg-id="Kanal 11 SE" tvg-name="Kanal 11 HD SE" tvg-logo="http://195.154.221.171/picons/kanal11hdse.png" group-title="Sweden",Kanal 11 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2954.m3u8
+#EXTINF:-1 tvg-id="Kanal 11 SE" tvg-name="Kanal 11 FHD SE" tvg-logo="http://195.154.221.171/picons/kanal11hdse.png" group-title="Sweden",Kanal 11 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6497.m3u8
+#EXTINF:-1 tvg-id="TV12 SE" tvg-name="TV12 SE" tvg-logo="http://195.154.221.171/picons/tv12se.png" group-title="Sweden",TV12 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 12 FHD VIP SE" tvg-logo="" group-title="Sweden",TV 12 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Barnkanaler ==========" tvg-logo="" group-title="Sweden",========== SE Barnkanaler ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24389.m3u8
+#EXTINF:-1 tvg-id="Barnkanalen SE" tvg-name="SVT Barnkanalen SE" tvg-logo="http://195.154.221.171/picons/svtbarnkanalense.png" group-title="Sweden",SVT Barnkanalen SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2964.m3u8
+#EXTINF:-1 tvg-id="Boomerang SE" tvg-name="Boomerang SE" tvg-logo="http://195.154.221.171/picons/boomerangse.png" group-title="Sweden",Boomerang SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6141.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network SE" tvg-name="Cartoon Network SE" tvg-logo="http://195.154.221.171/picons/cartoonnetworkse.png" group-title="Sweden",Cartoon Network SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2992.m3u8
+#EXTINF:-1 tvg-id="Disney Channel SE" tvg-name="Disney Channel SE" tvg-logo="http://195.154.221.171/picons/disneychannelse.png" group-title="Sweden",Disney Channel SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2991.m3u8
+#EXTINF:-1 tvg-id="Disney Junior SE" tvg-name="Disney Junior SE" tvg-logo="http://195.154.221.171/picons/disneyjuniorse.png" group-title="Sweden",Disney Junior SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2990.m3u8
+#EXTINF:-1 tvg-id="Disney XD SE" tvg-name="Disney XD SE" tvg-logo="http://195.154.221.171/picons/disneyxdse.png" group-title="Sweden",Disney XD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2940.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. SE" tvg-name="Nick Jr. SE" tvg-logo="http://195.154.221.171/picons/nickjrse.png" group-title="Sweden",Nick Jr. SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2988.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon SE" tvg-name="Nickelodeon SE" tvg-logo="http://195.154.221.171/picons/nickelodeonse.png" group-title="Sweden",Nickelodeon SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons Scandinavia VIP SE" tvg-logo="" group-title="Sweden",Nicktoons Scandinavia VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MovieTime Kids FHD VIP SE" tvg-logo="" group-title="Sweden",MovieTime Kids FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barn Program HD VIP SE" tvg-logo="" group-title="Sweden",Barn Program HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Dokumentär ==========" tvg-logo="" group-title="Sweden",========== SE Dokumentär ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24390.m3u8
+#EXTINF:-1 tvg-id="TV4 Fakta SE" tvg-name="TV4 Fakta SE" tvg-logo="http://195.154.221.171/picons/tv4faktase.png" group-title="Sweden",TV4 Fakta SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2960.m3u8
+#EXTINF:-1 tvg-id="Kunskapskanalen SE" tvg-name="Kunskapskanalen FHD SE" tvg-logo="http://195.154.221.171/picons/kunskapskanalenhdse.png" group-title="Sweden",Kunskapskanalen FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6500.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel SE" tvg-name="Discovery Channel HD SE" tvg-logo="http://195.154.221.171/picons/discoverychannelhdse.png" group-title="Sweden",Discovery Channel HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2985.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel SE" tvg-name="Discovery Channel FHD SE" tvg-logo="http://195.154.221.171/picons/discoverychannelhdse.png" group-title="Sweden",Discovery Channel FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/7285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disc. Science VIP SE" tvg-logo="" group-title="Sweden",Disc. Science VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9605.m3u8
+#EXTINF:-1 tvg-id="Discovery World SE" tvg-name="Discovery World SE" tvg-logo="http://195.154.221.171/picons/discoveryworldse.png" group-title="Sweden",Discovery World SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2936.m3u8
+#EXTINF:-1 tvg-id="Investigation Discovery SE" tvg-name="Investigation Discovery SE" tvg-logo="http://195.154.221.171/picons/investigationdiscoveryse.png" group-title="Sweden",Investigation Discovery SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2986.m3u8
+#EXTINF:-1 tvg-id="BBC Earth SE" tvg-name="BBC Earth HD SE" tvg-logo="http://195.154.221.171/picons/bbcearthhdse.png" group-title="Sweden",BBC Earth HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Brit HD VIP SE" tvg-logo="" group-title="Sweden",BBC Brit HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9608.m3u8
+#EXTINF:-1 tvg-id="History SE" tvg-name="History HD SE" tvg-logo="http://195.154.221.171/picons/historyhdse.png" group-title="Sweden",History HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2939.m3u8
+#EXTINF:-1 tvg-id="H2 SE" tvg-name="H2 HD SE" tvg-logo="http://195.154.221.171/picons/h2hdse.png" group-title="Sweden",H2 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD VIP SE" tvg-logo="" group-title="Sweden",Travel Channel HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9594.m3u8
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Animal Planet HD SE" tvg-logo="http://195.154.221.171/picons/animalplanethdse.png" group-title="Sweden",Animal Planet HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD SE / FI" tvg-logo="" group-title="Sweden",National Geographic FHD SE / FI
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9070.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild SE" tvg-name="Nat Geo Wild SE" tvg-logo="http://195.154.221.171/picons/natgeowildse.png" group-title="Sweden",Nat Geo Wild SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6142.m3u8
+#EXTINF:-1 tvg-id="Viasat Explorer SE" tvg-name="Viasat Explore SE" tvg-logo="http://195.154.221.171/picons/viasatexplorese.png" group-title="Sweden",Viasat Explore SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2982.m3u8
+#EXTINF:-1 tvg-id="Viasat History SE" tvg-name="Viasat History SE" tvg-logo="http://195.154.221.171/picons/viasathistoryse.png" group-title="Sweden",Viasat History SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2983.m3u8
+#EXTINF:-1 tvg-id="Viasat Nature SE" tvg-name="Viasat Nature SE" tvg-logo="http://195.154.221.171/picons/viasatnaturese.png" group-title="Sweden",Viasat Nature SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD VIP SE" tvg-logo="" group-title="Sweden",TLC FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Filmkanaler/Serier ==========" tvg-logo="" group-title="Sweden",========== SE Filmkanaler/Serier ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24391.m3u8
+#EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First FHD [No-Sub] SE" tvg-logo="http://195.154.221.171/picons/cmorefirsthdse.png" group-title="Sweden",C More First FHD [No-Sub] SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2971.m3u8
+#EXTINF:-1 tvg-id="C More Hits SE" tvg-name="C More Hits HD SE" tvg-logo="http://195.154.221.171/picons/cmorehitshdse.png" group-title="Sweden",C More Hits HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2972.m3u8
+#EXTINF:-1 tvg-id="C More Hits SE" tvg-name="C More Hits FHD SE" tvg-logo="http://195.154.221.171/picons/cmorehitshdse.png" group-title="Sweden",C More Hits FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6494.m3u8
+#EXTINF:-1 tvg-id="C More Stars SE" tvg-name="C More Stars HD SE" tvg-logo="http://195.154.221.171/picons/cmorestarshdse.png" group-title="Sweden",C More Stars HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6140.m3u8
+#EXTINF:-1 tvg-id="C More Stars SE" tvg-name="C More Stars FHD SE" tvg-logo="http://195.154.221.171/picons/cmorestarshdse.png" group-title="Sweden",C More Stars FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2974.m3u8
+#EXTINF:-1 tvg-id="Viasat Film Action SE" tvg-name="Viasat Film Action SE" tvg-logo="http://195.154.221.171/picons/viasatfilmactionse.png" group-title="Sweden",Viasat Film Action SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2969.m3u8
+#EXTINF:-1 tvg-id="Viasat Film Family SE" tvg-name="Viasat Film Family SE" tvg-logo="http://195.154.221.171/picons/viasatfilmfamilyse.png" group-title="Sweden",Viasat Film Family SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2968.m3u8
+#EXTINF:-1 tvg-id="Viasat Film Hits SE" tvg-name="Viasat Film Hits HD SE" tvg-logo="http://195.154.221.171/picons/viasatfilmhitshdse.png" group-title="Sweden",Viasat Film Hits HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Hits HD VIP SE" tvg-logo="" group-title="Sweden",Viasat Film Hits HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9589.m3u8
+#EXTINF:-1 tvg-id="Viasat Film Premiere SE" tvg-name="Viasat Film Premiere HD SE" tvg-logo="http://195.154.221.171/picons/viasatfilmpremierehdse.png" group-title="Sweden",Viasat Film Premiere HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Premiere HD VIP SE" tvg-logo="" group-title="Sweden",Viasat Film Premiere HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9588.m3u8
+#EXTINF:-1 tvg-id="Viasat Series SE" tvg-name="Viasat Series HD SE" tvg-logo="http://195.154.221.171/picons/viasatserieshdse.png" group-title="Sweden",Viasat Series HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2944.m3u8
+#EXTINF:-1 tvg-id="TV4 Film SE" tvg-name="TV4 Film SE" tvg-logo="http://195.154.221.171/picons/tv4filmse.png" group-title="Sweden",TV4 Film SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2958.m3u8
+#EXTINF:-1 tvg-id="SF Kanalen SE" tvg-name="SF Kanalen SE" tvg-logo="http://195.154.221.171/picons/sfkanalense.png" group-title="Sweden",SF Kanalen SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2980.m3u8
+#EXTINF:-1 tvg-id="Comedy Central SE" tvg-name="Comedy Central SE" tvg-logo="http://195.154.221.171/picons/comedycentralse.png" group-title="Sweden",Comedy Central SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2996.m3u8
+#EXTINF:-1 tvg-id="TV4 Guld SE" tvg-name="TV4 Guld SE" tvg-logo="http://195.154.221.171/picons/tv4guldse.png" group-title="Sweden",TV4 Guld SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2961.m3u8
+#EXTINF:-1 tvg-id="C More Series SE" tvg-name="C More Series HD SE" tvg-logo="http://195.154.221.171/picons/cmoreserieshdse.png" group-title="Sweden",C More Series HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2973.m3u8
+#EXTINF:-1 tvg-id="C More Series SE" tvg-name="C More Series FHD SE" tvg-logo="http://195.154.221.171/picons/cmoreserieshdse.png" group-title="Sweden",C More Series FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6495.m3u8
+#EXTINF:-1 tvg-id="FOX SE" tvg-name="FOX SE" tvg-logo="http://195.154.221.171/picons/foxse.png" group-title="Sweden",FOX SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2998.m3u8
+#EXTINF:-1 tvg-id="TNT SE" tvg-name="TNT HD SE" tvg-logo="http://195.154.221.171/picons/tntse.png" group-title="Sweden",TNT HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2994.m3u8
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="TCM SE" tvg-logo="http://195.154.221.171/picons/tcmse.png" group-title="Sweden",TCM SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Sport ==========" tvg-logo="" group-title="Sweden",========== SE Sport ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll FHD VIP SE" tvg-logo="" group-title="Sweden",C More Fotboll FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/13249.m3u8
+#EXTINF:-1 tvg-id="C More Live SE" tvg-name="C More Live 1 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelivehdse.png" group-title="Sweden",C More Live 1 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2950.m3u8
+#EXTINF:-1 tvg-id="C More Live 2 SE" tvg-name="C More Live 2 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive2hdse.png" group-title="Sweden",C More Live 2 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive3hdse.png" group-title="Sweden",C More Live 3 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD SE" tvg-logo="http://195.154.221.171/picons/cmorelive4hdse.png" group-title="Sweden",C More Live 4 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2947.m3u8
+#EXTINF:-1 tvg-id="C More Live 5 SE" tvg-name="C More Live 5 FHD SE" tvg-logo="http://195.154.221.171/picons/cmorelive5hd.png" group-title="Sweden",C More Live 5 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6194.m3u8
+#EXTINF:-1 tvg-id="C More Hockey SE" tvg-name="C More Hockey HD SE" tvg-logo="http://195.154.221.171/picons/cmorehockeyhdse.png" group-title="Sweden",C More Hockey HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2976.m3u8
+#EXTINF:-1 tvg-id="C More Hockey SE" tvg-name="C More Hockey FHD SE" tvg-logo="http://195.154.221.171/picons/cmorehockeyhdse.png" group-title="Sweden",C More Hockey FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6195.m3u8
+#EXTINF:-1 tvg-id="C More Golf HD SE" tvg-name="C More Golf HD SE" tvg-logo="http://195.154.221.171/picons/cmoregolfhdse.png" group-title="Sweden",C More Golf HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf FHD VIP SE" tvg-logo="" group-title="Sweden",C More Golf FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportKanalen HD VIP SE" tvg-logo="http://195.154.221.171/picons/sportkanalenhd.png" group-title="Sweden",SportKanalen HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/11058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strive Sport La Liga FHD VIP SE [Live During Events Only]" tvg-logo="" group-title="Sweden",Strive Sport La Liga FHD VIP SE [Live During Events Only]
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strive Sport Serie A FHD VIP SE [Live During Events Only]" tvg-logo="" group-title="Sweden",Strive Sport Serie A FHD VIP SE [Live During Events Only]
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strive Sport 3 FHD VIP SE" tvg-logo="" group-title="Sweden",Strive Sport 3 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/23261.m3u8
+#EXTINF:-1 tvg-id="Viasat Golf SE" tvg-name="Viasat Golf SE" tvg-logo="http://195.154.221.171/picons/viasatgolfse.png" group-title="Sweden",Viasat Golf SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2935.m3u8
+#EXTINF:-1 tvg-id="Viasat Sport SE" tvg-name="Viasat Sport SE" tvg-logo="http://195.154.221.171/picons/viasatsportse.png" group-title="Sweden",Viasat Sport SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2952.m3u8
+#EXTINF:-1 tvg-id="Viasat Hockey SE" tvg-name="Viasat Hockey HD SE" tvg-logo="http://195.154.221.171/picons/viasathockeyhdse.png" group-title="Sweden",Viasat Hockey HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2928.m3u8
+#EXTINF:-1 tvg-id="Viasat Motor SE" tvg-name="Viasat Motor HD SE" tvg-logo="http://195.154.221.171/picons/viasatmotorhdse.png" group-title="Sweden",Viasat Motor HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2929.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 SE" tvg-name="Eurosport 1 HD SE" tvg-logo="http://195.154.221.171/picons/eurosport1hdse.png" group-title="Sweden",Eurosport 1 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2977.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 SE" tvg-name="Eurosport 1 FHD SE" tvg-logo="http://195.154.221.171/picons/eurosport1hdse.png" group-title="Sweden",Eurosport 1 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6102.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2 SE" tvg-name="Eurosport 2 HD SE" tvg-logo="http://195.154.221.171/picons/eurosport2hdse.png" group-title="Sweden",Eurosport 2 HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD VIP SE" tvg-logo="" group-title="Sweden",Eurosport 2 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9603.m3u8
+#EXTINF:-1 tvg-id="Fight Sports SE" tvg-name="Fight Sports SE" tvg-logo="http://195.154.221.171/picons/fightsportsse.png" group-title="Sweden",Fight Sports SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network VIP SE" tvg-logo="" group-title="Sweden",NFL Network VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country VIP SE" tvg-logo="" group-title="Sweden",Horse & Country VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9600.m3u8
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Motorsport.TV HD SE" tvg-logo="http://195.154.221.171/picons/motorsporttvhdse.png" group-title="Sweden",Motorsport.TV HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/3916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Musik/Nöje ==========" tvg-logo="" group-title="Sweden",========== SE Musik/Nöje ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 VIP SE" tvg-logo="" group-title="Sweden",VH1 VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Nordic VIP SE" tvg-logo="" group-title="Sweden",MTV Nordic VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban FHD VIP SE" tvg-logo="" group-title="Sweden",Trace Urban FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17228.m3u8
+#EXTINF:-1 tvg-id="E! SE" tvg-name="E! SE" tvg-logo="http://195.154.221.171/picons/ese.png" group-title="Sweden",E! SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Nyheter ==========" tvg-logo="" group-title="Sweden",========== SE Nyheter ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24394.m3u8
+#EXTINF:-1 tvg-id="SVT24 SE" tvg-name="SVT24 FHD VIP SE" tvg-logo="http://195.154.221.171/picons/svt24.png" group-title="Sweden",SVT24 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International FHD VIP SE" tvg-logo="" group-title="Sweden",CNN International FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera FHD VIP SE" tvg-logo="" group-title="Sweden",Al Jazeera FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vision Sverige HD VIP SE" tvg-logo="" group-title="Sweden",Vision Sverige HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/17225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="========== SE Reservkanaler ==========" tvg-logo="" group-title="Sweden",========== SE Reservkanaler ==========
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/24395.m3u8
+#EXTINF:-1 tvg-id="SVT1 SE" tvg-name="SVT1 (BackUP) SE" tvg-logo="http://195.154.221.171/picons/svt1se.png" group-title="Sweden",SVT1 (BackUP) SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6507.m3u8
+#EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 SE" tvg-logo="http://195.154.221.171/picons/svt2se.png" group-title="Sweden",SVT2 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6139.m3u8
+#EXTINF:-1 tvg-id="SVT2 SE" tvg-name="SVT2 (BackUP) SE" tvg-logo="http://195.154.221.171/picons/svt2se.png" group-title="Sweden",SVT2 (BackUP) SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SVT 24/B HD VIP SE" tvg-logo="" group-title="Sweden",SVT 24/B HD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9150.m3u8
+#EXTINF:-1 tvg-id="SVT24 SE" tvg-name="SVT24/B (BackUP) SE" tvg-logo="http://195.154.221.171/picons/svt24se.png" group-title="Sweden",SVT24/B (BackUP) SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6509.m3u8
+#EXTINF:-1 tvg-id="TV3 SE" tvg-name="TV3 SE" tvg-logo="http://195.154.221.171/picons/tv3se.png" group-title="Sweden",TV3 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/3888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV4 FHD VIP SE" tvg-logo="" group-title="Sweden",TV4 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9175.m3u8
+#EXTINF:-1 tvg-id="Kanal 5 SE" tvg-name="Kanal 5 FHD SE" tvg-logo="http://195.154.221.171/picons/kanal5hdse.png" group-title="Sweden",Kanal 5 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6496.m3u8
+#EXTINF:-1 tvg-id="TV6 SE" tvg-name="TV6 SE" tvg-logo="http://195.154.221.171/picons/tv6se.png" group-title="Sweden",TV6 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/3919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9 FHD VIP SE" tvg-logo="" group-title="Sweden",Kanal 9 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9267.m3u8
+#EXTINF:-1 tvg-id="Kanal 11 SE" tvg-name="Kanal 11 SE" tvg-logo="http://195.154.221.171/picons/kanal11se.png" group-title="Sweden",Kanal 11 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/3917.m3u8
+#EXTINF:-1 tvg-id="TV12 SE" tvg-name="TV12 FHD SE" tvg-logo="http://195.154.221.171/picons/tv12hdse.png" group-title="Sweden",TV12 FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6498.m3u8
+#EXTINF:-1 tvg-id="Kunskapskanalen SE" tvg-name="Kunskapskanalen SE" tvg-logo="http://195.154.221.171/picons/kunskapskanalense.png" group-title="Sweden",Kunskapskanalen SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2993.m3u8
+#EXTINF:-1 tvg-id="Animal Planet SE" tvg-name="Animal Planet SE" tvg-logo="http://195.154.221.171/picons/animalplanetse.png" group-title="Sweden",Animal Planet SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6098.m3u8
+#EXTINF:-1 tvg-id="Travel Channel SE" tvg-name="Travel Channel SE" tvg-logo="http://195.154.221.171/picons/travelchannelse.png" group-title="Sweden",Travel Channel SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2981.m3u8
+#EXTINF:-1 tvg-id="National Geographic SE" tvg-name="National Geographic SE" tvg-logo="http://195.154.221.171/picons/nationalgeographicse.png" group-title="Sweden",National Geographic SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2987.m3u8
+#EXTINF:-1 tvg-id="Viasat Nature SE" tvg-name="Viasat Nature VIP SE" tvg-logo="http://195.154.221.171/picons/viasatnature.png" group-title="Sweden",Viasat Nature VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9587.m3u8
+#EXTINF:-1 tvg-id="TLC SE" tvg-name="TLC HD SE" tvg-logo="http://195.154.221.171/picons/tlchdse.png" group-title="Sweden",TLC HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2999.m3u8
+#EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First FHD [Hard-Sub] SE" tvg-logo="http://195.154.221.171/picons/cmorefirsthdse.png" group-title="Sweden",C More First FHD [Hard-Sub] SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6099.m3u8
+#EXTINF:-1 tvg-id="C More First SE" tvg-name="C More First FHD SE" tvg-logo="http://195.154.221.171/picons/cmorefirsthdse.png" group-title="Sweden",C More First FHD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits FHD VIP SE" tvg-logo="" group-title="Sweden",C More Hits FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9154.m3u8
+#EXTINF:-1 tvg-id="C More Live 5 SE" tvg-name="C More Live 5 FHD VIP SE" tvg-logo="http://195.154.221.171/picons/cmorelive5hd.png" group-title="Sweden",C More Live 5 FHD VIP SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/9153.m3u8
+#EXTINF:-1 tvg-id="C More Live SE" tvg-name="C More Live 1 SE" tvg-logo="http://195.154.221.171/picons/cmorelivese.png" group-title="Sweden",C More Live 1 SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/6100.m3u8
+#EXTINF:-1 tvg-id="MTV SE" tvg-name="MTV SE" tvg-logo="http://195.154.221.171/picons/mtvse.png" group-title="Sweden",MTV SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/2997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More First FHD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",C More First FHD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD (B) SE VIP" tvg-logo="" group-title="Sweden",C More Fotboll HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll HD SE VIP" tvg-logo="" group-title="Sweden",C More Fotboll HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf HD SE VIP" tvg-logo="" group-title="Sweden",C More Golf HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits FHD SE VIP" tvg-logo="" group-title="Sweden",C More Hits FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits HD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",C More Hits HD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hockey FHD SE VIP" tvg-logo="" group-title="Sweden",C More Hockey FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hockey HD SE VIP" tvg-logo="" group-title="Sweden",C More Hockey HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 2 HD (B) SE VIP" tvg-logo="" group-title="Sweden",C More Live 2 HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 2 HD SE VIP" tvg-logo="" group-title="Sweden",C More Live 2 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD (B) SE VIP" tvg-logo="" group-title="Sweden",C More Live 3 HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 HD SE VIP" tvg-logo="" group-title="Sweden",C More Live 3 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD (B) SE VIP" tvg-logo="" group-title="Sweden",C More Live 4 HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 4 HD SE VIP" tvg-logo="" group-title="Sweden",C More Live 4 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 5 FHD SE VIP" tvg-logo="" group-title="Sweden",C More Live 5 FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 5 HD SE VIP" tvg-logo="" group-title="Sweden",C More Live 5 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live HD (B) SE VIP" tvg-logo="" group-title="Sweden",C More Live HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live HD SE VIP" tvg-logo="" group-title="Sweden",C More Live HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Series FHD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",C More Series FHD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Stars FHD SE VIP" tvg-logo="" group-title="Sweden",C More Stars FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Stars FHD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",C More Stars FHD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Explore FHD SE VIP" tvg-logo="" group-title="Sweden",Viasat Explore FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Action FHD SE VIP" tvg-logo="" group-title="Sweden",Viasat Film Action FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Family (B) SE VIP" tvg-logo="" group-title="Sweden",Viasat Film Family (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Family SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat Film Family SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Hits HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Film Hits HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Hits HD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat Film Hits HD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Premiere HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Film Premiere HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Film Premiere HD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat Film Premiere HD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll HD (B) SE VIP" tvg-logo="" group-title="Sweden",Viasat Fotboll HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Fotboll HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Golf HD SE [Multi-Audio] VIP" tvg-logo="" group-title="Sweden",Viasat Golf HD SE [Multi-Audio] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Golf SE VIP" tvg-logo="" group-title="Sweden",Viasat Golf SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat History SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Hockey HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Hockey HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Hockey HD SE [Multi-Audio] VIP" tvg-logo="" group-title="Sweden",Viasat Hockey HD SE [Multi-Audio] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Motor HD (B) SE VIP" tvg-logo="" group-title="Sweden",Viasat Motor HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Motor HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Motor HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat Nature SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Series HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Series HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Series HD SE [Multi-Sub] VIP" tvg-logo="" group-title="Sweden",Viasat Series HD SE [Multi-Sub] VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD (B) SE VIP" tvg-logo="" group-title="Sweden",Viasat Sport HD (B) SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Sport HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/18720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll FHD SE VIP" tvg-logo="" group-title="Sweden",C More Fotboll FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf FHD SE VIP" tvg-logo="" group-title="Sweden",C More Golf FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hoockey FHD SE VIP" tvg-logo="" group-title="Sweden",C More Hoockey FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live FHD SE VIP" tvg-logo="" group-title="Sweden",C More Live FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 2 FHD SE VIP" tvg-logo="" group-title="Sweden",C More Live 2 FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live 3 FHD SE VIP" tvg-logo="" group-title="Sweden",C More Live 3 FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 11 HD SE VIP" tvg-logo="" group-title="Sweden",Kanal 11 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 HD SE VIP" tvg-logo="" group-title="Sweden",Kanal 5 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9 HD SE VIP" tvg-logo="" group-title="Sweden",Kanal 9 HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportkanalen HD SE VIP" tvg-logo="" group-title="Sweden",Sportkanalen HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 Sport HD SE VIP" tvg-logo="" group-title="Sweden",TV 3 Sport HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Premium FHD SE VIP" tvg-logo="" group-title="Sweden",Viasat Sport Premium FHD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Sverige HD SE VIP" tvg-logo="" group-title="Sweden",Viasat Sport Sverige HD SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Fotboll SE VIP" tvg-logo="" group-title="Sweden",C More Fotboll SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Golf SE VIP" tvg-logo="" group-title="Sweden",C More Golf SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hits SE VIP (Multi-Sub)" tvg-logo="" group-title="Sweden",C More Hits SE VIP (Multi-Sub)
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Hockey SE VIP" tvg-logo="" group-title="Sweden",C More Hockey SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C More Live SE VIP" tvg-logo="" group-title="Sweden",C More Live SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5 SE VIP" tvg-logo="" group-title="Sweden",Kanal 5 SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 9 SE VIP" tvg-logo="" group-title="Sweden",Kanal 9 SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 11 SE VIP" tvg-logo="" group-title="Sweden",Kanal 11 SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel SE VIP" tvg-logo="" group-title="Sweden",Paramount Channel SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportkanalen SE VIP" tvg-logo="" group-title="Sweden",Sportkanalen SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 SE VIP" tvg-logo="" group-title="Sweden",TV 3 SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Fakta SE VIP" tvg-logo="" group-title="Sweden",TV 4 Fakta SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Film SE VIP" tvg-logo="" group-title="Sweden",TV 4 Film SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 Guld SE VIP" tvg-logo="" group-title="Sweden",TV 4 Guld SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 4 SE VIP" tvg-logo="" group-title="Sweden",TV 4 SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Fotboll SE VIP (Multi-Audio)" tvg-logo="" group-title="Sweden",Viasat Fotboll SE VIP (Multi-Audio)
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Golf SE VIP (Multi-Audio)" tvg-logo="" group-title="Sweden",Viasat Golf SE VIP (Multi-Audio)
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Hockey SE VIP (Multi-Audio)" tvg-logo="" group-title="Sweden",Viasat Hockey SE VIP (Multi-Audio)
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Motor SE VIP (Multi-Audio)" tvg-logo="" group-title="Sweden",Viasat Motor SE VIP (Multi-Audio)
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/45001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Sverige SE VIP" tvg-logo="" group-title="Sweden",Viasat Sport Sverige SE VIP
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/44997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Extra SE" tvg-logo="" group-title="Sweden",Viasat Sport Extra SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/79202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Sport Extra HD SE" tvg-logo="" group-title="Sweden",Viasat Sport Extra HD SE
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/79203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="########## UHD 4K ##########" tvg-logo="" group-title="UHD 4K",########## UHD 4K ##########
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL UHD 4K" tvg-logo="" group-title="UHD 4K",RTL UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIASAT ULTRA UHD 4K" tvg-logo="" group-title="UHD 4K",VIASAT ULTRA UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 7 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 7 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 6 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 6 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 5 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 5 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 4 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 4 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 3 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 3 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 2 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 2 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky PrimaFila 1 UHD 4K" tvg-logo="" group-title="UHD 4K",Sky PrimaFila 1 UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema UHD 4K" tvg-logo="" group-title="UHD 4K",Eagle Cinema UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion UHD 4K" tvg-logo="" group-title="UHD 4K",Fashion UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home UHD 4K" tvg-logo="" group-title="UHD 4K",Home UHD 4K
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/75406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 4K FR" tvg-logo="" group-title="UHD 4K",TF1 4K FR
+http://swriptv.gentv.to:8080/live/Ysn9jIdibW/NSQifa5dcy/80151.m3u8
